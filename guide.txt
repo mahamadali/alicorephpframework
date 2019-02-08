@@ -1,4 +1,4 @@
-***************** GUIDE YOU FOR IMPORTANT FUNCTION FOR THIS ALI's CORE FRAMEWORK **************
+***************** GUIDE FOR IMPORTANT FUNCTIONS FOR THIS ALI's CORE FRAMEWORK **************
 
 ------------------------------------------------------------------------------------------------
 App::setErrReporting(false); // Start or stop error reporting
